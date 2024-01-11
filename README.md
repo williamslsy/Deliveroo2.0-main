@@ -26,7 +26,6 @@ Deliveroo is a British multinational delivery company, delivering goods for rest
 
 ## Demo & Showcasing:
 
-- [Video](https://youtu.be/ZU50wU1Hm-E)
 - Photos:
 <div align="center">
 <img width="352" alt="Screenshot 2022-09-02 at 14 09 32" src="https://user-images.githubusercontent.com/30297892/188128125-7e52b166-7947-4ec5-ad7a-77926e8bc9ce.png">
@@ -34,6 +33,3 @@ Deliveroo is a British multinational delivery company, delivering goods for rest
 <img width="387" alt="Screenshot 2022-09-02 at 14 09 45" src="https://user-images.githubusercontent.com/30297892/188128228-8acb2075-0ff8-42ba-8c38-4d82184dded7.png">
 </div>
 
-### Special Thanks:
-
-- [Sonny Sangha](https://www.youtube.com/c/SonnySangha) for his amazing tutorial.
